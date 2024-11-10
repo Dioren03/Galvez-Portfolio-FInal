@@ -1,0 +1,26 @@
+body {
+  background-color: #e3d9d2  !important; 
+}
+
+
+.full-screen-height {
+  min-height: 100vh;
+}
+
+.border-outline {
+  border: 2px solid black;
+}
+
+svg {
+  width: 40px;
+}
+
+.project-img {
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+  height: 225px;
+}
+.svg-hover:hover{
+  fill: white;
+}
